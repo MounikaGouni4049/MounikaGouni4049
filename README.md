@@ -9,14 +9,14 @@
 ## Generating .p8 Key file:
 ####   1. Go to Apple developer account page(https://developer.apple.com)
 ####   2. Select Certificates, IDs & Profiles, and navigate to Keys
-    ![Select Key](/Images/2-selectKey-1.png)
+    ![Select Key](2-selectKey-1.png)
    
 ####   3.Click the “+” button to add a new key.
-    ![NewKey](/../Images/3-addKey-1.png)
+    ![NewKey](3-addKey-1.png)
 ####   4. In the new key page, type in your key name and check the Apple Push Notification service (APNs) box , then click “Continue” and click “Register’.
-    ![RegisterKey](../Images/4-registerKey-1.png "Register Key")
+    ![RegisterKey](4-registerKey-1.png)
 ####  5.Then proceed to download the key file by clicking Download
-    ![DownloadKey](../Images/5-downloadKey-1.png "Download Key")
+    ![DownloadKey](5-downloadKey-1.png)
 
 
 ####   The Auth Key filename will look like this : AuthKey_4CLK6FN46Q.p8 the 4CLK6FN46Q is the Key ID 
